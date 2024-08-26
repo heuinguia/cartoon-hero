@@ -1,0 +1,22 @@
+
+body{
+	background-color: lightgreen;
+}
+		h1{
+			font-size: 30px;
+			color: black;
+		}
+		h2{
+			color: gold;
+			font-size: 20px;
+		}
+
+		.big{
+			font-size: 60px;
+		}
+
+		.uppercase{
+			text-transform: uppercase;
+		}
+
+	
